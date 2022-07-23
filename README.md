@@ -1,2 +1,2 @@
 # Nebula
-![My Image](complete.jpg)
+![My Image](complete.png)
